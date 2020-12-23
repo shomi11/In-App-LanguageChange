@@ -1,0 +1,9 @@
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "JP0-va-Nk1"; */
+"JP0-va-Nk1.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "afd-E0-AaV"; */
+"afd-E0-AaV.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "cle-ze-10C"; */
+"cle-ze-10C.normalTitle" = "Sign in";

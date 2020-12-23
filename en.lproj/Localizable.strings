@@ -1,0 +1,13 @@
+/*
+  Localizable.strings
+  In-App-LanguageChange
+
+  Created by Milos Malovic on 22.12.20..
+ */
+
+ "Sign in" = "Sign in";
+ "email" = "email";
+ "password" = "password";
+ "Cars" = "Cars";
+ 
+
